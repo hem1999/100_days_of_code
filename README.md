@@ -9,7 +9,6 @@
         <li>heapify</li>
         <li>extract min</li>
         </ol>
-
     <h2>@day2_07_02_2021</h2>
         <ol>
         <li>Code the heap in java</li>
