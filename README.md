@@ -26,11 +26,11 @@
         <ol>
         <li>todo: LC 451 must use heaps to do that</li>
         </ol>
-<p style="color:red">
-    LC --> leetcode platform 
-    from cb --> This problem mentioned in coding blocks FAANG course
-    BS --> Binary Search platform.
-    GFG --> Geeks For Geeks
-    all the problems mentioned during a day will be in a file named practice.
+<p>
+    LC --> leetcode platform <br/>
+    from cb --> This problem mentioned in coding blocks FAANG course <br/>
+    BS --> Binary Search platform. <br/>
+    GFG --> Geeks For Geeks <br/>
+    all the problems mentioned during a day will be in a file named practice.<br/>
 </p>
     
