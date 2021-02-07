@@ -3,7 +3,7 @@
         Started with heaps.
         <ol>
         <li>Building a heap from scratch</li>
-        <li>Inserting a heap from scratch</li>
+        <li>Inserting in a heap</li>
         <li>build heap function</li>
         <li>delete a key</li>
         <li>heapify</li>
@@ -17,12 +17,20 @@
         <li>LC 767 reorganize string. (from cb)</li>
         <li>merge k-sorted arrays from GFG (from cb)</li>
         <li>LC 692 Top k most frequent words (from cb)</li>
-        <li> LC 23 Merge k-sorted lists </li>
+        <li> LC 23 Merge k-sorted lists (from cb)</li>
         <li>LC 347 Top k frequent elements</li>
+        <li>LC XXX Sliding Window Maximum</li>
         <li>LC 937 K closest points from origin (from cb)</li>
         </ol>
     <h2>@day3_08_02_2021</h2>
         <ol>
         <li>todo: LC 451 must use heaps to do that</li>
         </ol>
+<p style="color:red">
+    LC --> leetcode platform 
+    from cb --> This problem mentioned in coding blocks FAANG course
+    BS --> Binary Search platform.
+    GFG --> Geeks For Geeks
+    all the problems mentioned during a day will be in a file named practice.
+</p>
     
