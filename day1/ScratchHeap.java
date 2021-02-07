@@ -1,4 +1,5 @@
 class MinHeap {
+    //full heap from scratch in java
     int[] harr;
     int capacity,heap_size;
     MinHeap(int cap) {
