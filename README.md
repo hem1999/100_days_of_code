@@ -19,14 +19,17 @@
         <li>LC 692 Top k most frequent words (from cb)</li>
         <li> LC 23 Merge k-sorted lists (from cb)</li>
         <li>LC 347 Top k frequent elements</li>
-        <li>LC XXX Sliding Window Maximum</li>
         <li>LC 937 K closest points from origin (from cb)</li>
         </ol>
     <h2>@day3_08_02_2021</h2>
         <ol>
         <li>todo: LC 451 must use heaps to do that</li>
+        <li>todo: LC 239 Sliding Window Maximum</li>
         </ol>
+
+
 <p>
+    <b>Note: </b>
     LC --> leetcode platform <br/>
     from cb --> This problem mentioned in coding blocks FAANG course <br/>
     BS --> Binary Search platform. <br/>
