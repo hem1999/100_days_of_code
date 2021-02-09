@@ -26,7 +26,7 @@
         <li>LC 703 kth largest element in a stream</li>
         <li>BS K Unique String</li>
         <li>GFG Nearly Sorted Array</li>
-        <li>GFG Median of a Stream</li>
+        <li>BS Rolling Median</li>
         </ol>
     <h2>@day4_09_02_2021</h2>
         <ol>
