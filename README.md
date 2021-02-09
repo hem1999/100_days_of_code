@@ -23,13 +23,25 @@
         </ol>
     <h2>@day3_08_02_2021</h2>
         <ol>
-        <li>todo: LC 451 must use heaps to do that</li>
-        <li>todo: LC 239 Sliding Window Maximum</li>
+        <li>LC 703 kth largest element in a stream</li>
+        <li>BS K Unique String</li>
+        <li>GFG Nearly Sorted Array</li>
+        <li>GFG Median of a Stream</li>
+        </ol>
+    <h2>@day4_09_02_2021</h2>
+        <ol>
+            <li>todo: LC 451 must use heaps to do that</li>
+            <li>todo: LC 239 Sliding Window Maximum</li>
+            <li>todo: BS Ugly Numbers Sequel</li>
+            <li>todo: BS CPU Scheduling</li>
+            <li>todo: BS Costly Flight of Stairs</li>
+            <li>todo: BS Window Limits</li>
+            <li>todo: BS K Maximum Sums</li>
         </ol>
 
 
 <p>
-    <b>Note: </b>
+    <b>Note: </b> <br/>
     LC --> leetcode platform <br/>
     from cb --> This problem mentioned in coding blocks FAANG course <br/>
     BS --> Binary Search platform. <br/>
