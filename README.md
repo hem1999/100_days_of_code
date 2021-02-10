@@ -30,14 +30,21 @@
         </ol>
     <h2>@day4_09_02_2021</h2>
         <ol>
-            <li>todo: LC 451 must use heaps to do that</li>
-            <li>todo: LC 239 Sliding Window Maximum</li>
-            <li>todo: BS Ugly Numbers Sequel</li>
-            <li>todo: BS CPU Scheduling</li>
-            <li>todo: BS Costly Flight of Stairs</li>
-            <li>todo: BS Window Limits</li>
-            <li>todo: BS K Maximum Sums</li>
+            <s><li>todo: LC 451 must use heaps to do that</li></s>
+            <s><li>todo: LC 239 Sliding Window Maximum</li></s>
+            <s><li>todo: BS Window Limits</li></s>
+            <s><li>todo: BS K Maximum Sums</li></s>
+            <s><li>todo: BS Ugly Numbers Sequel</li></s>
+            <s><li>todo: BS CPU Scheduling</li></s>
+            <s><li>todo: BS Costly Flight of Stairs</li></s>
+            <s><li>todo: GFG Huffman coding</li></s>
+            <s><li>todo: GFG Huffman decoding-1 </li></s>
         </ol>
+    <h2>@day5_10_02_2021</h2>
+        <ol>
+            <li></li>
+        </ol>
+    
 
 
 <p>
