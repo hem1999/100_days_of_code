@@ -40,13 +40,15 @@
             <s><li>todo: GFG Huffman coding</li></s>
             <s><li>todo: GFG Huffman decoding-1 </li></s>
         </ol>
-    <h2>@day5_10_02_2021</h2>
-        <ol>
-            <li></li>
-        </ol>
-    
-
-
+    <h2>@day5_11_02_2021</h2>
+    <ol>
+        <li>Stack Implementation using array and linked list</li>
+        <li>Queue Implementation using array and linked list</li>
+        <li>Dequeue Implementation using array and linked list</li>
+    </ol>
+<br/>
+<br/>
+<hr>
 <p>
     <b>Note: </b> <br/>
     LC --> leetcode platform <br/>
