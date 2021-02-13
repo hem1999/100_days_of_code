@@ -46,6 +46,14 @@
         <li>Queue Implementation using array and linked list</li>
         <li>Dequeue Implementation using array and linked list</li>
     </ol>
+    <h2>@day6_12_02_2021</h2>
+    <ol>
+        <li>Stack using queues</li>
+        <li>Queue using Stacks</li>
+        <li>GFG Stock Span Problem</li>
+        
+    </ol>
+
 <br/>
 <br/>
 <hr>
