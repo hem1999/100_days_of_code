@@ -46,14 +46,21 @@
         <li>Queue Implementation using array and linked list</li>
         <li>Dequeue Implementation using array and linked list</li>
     </ol>
-    <h2>@day6_12_02_2021</h2>
+    <h2>@day6_21_02_2021(Pending...!)</h2>
     <ol>
         <li>Stack using queues</li>
         <li>Queue using Stacks</li>
-        <li>GFG Stock Span Problem</li>
-        
+        <li>GFG Stock Span Problem</li> 
+        <li>LC 735: Asteroid Collision (from cb)<li> 
     </ol>
-
+    <p>Restarted after loosing the track @day7_26_02_2021</p>
+    <ol>
+        <li>LC 845: Longest Mountain in an Array(From cb)</li>
+        <li>LC 70: Climbing Stairs(from cb)</li>
+        <li>LC 746: Min cost climbing stairs</li>
+        <li>LC 198: House Robber(From cb)</li>
+        <li>LC 62: Unique Paths(From cb)</li>
+    </ol>
 <br/>
 <br/>
 <hr>
