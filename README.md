@@ -55,11 +55,20 @@
     </ol>
     <p>Restarted after loosing the track @day7_26_02_2021</p>
     <ol>
-        <li>LC 845: Longest Mountain in an Array(From cb)</li>
         <li>LC 70: Climbing Stairs(from cb)</li>
         <li>LC 746: Min cost climbing stairs</li>
         <li>LC 198: House Robber(From cb)</li>
         <li>LC 62: Unique Paths(From cb)</li>
+    </ol>
+    <h2>@day8_01_03_2021</h2>
+    <ol>
+        <li>LC123: Best time to buy and sell stocks 3(From CB)</li>
+        <li>LC845: </li>
+        <li>LC1143: Longest Common Subsequence(From cb)</li>
+        <li>LC 64: Minimum Path Sum(From cb)</li>
+        <li>LC 322: Coin Change</li>
+        <li>LC 518: Number of ways to make the coin change(From cb)</li>
+        <li>LC 515: Maximum at each row of a binary tree(FRom cb)</li>
     </ol>
 <br/>
 <br/>
